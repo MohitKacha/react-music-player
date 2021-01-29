@@ -2,3 +2,7 @@
 
 
 ## React Music App
+
+
+
+Technology/Frameworks  => React, HTML, SCSS, Font Awesome 
